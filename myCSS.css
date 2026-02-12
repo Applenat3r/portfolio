@@ -38,7 +38,7 @@ body {
 	text-align: left;
 }
 .footer {
-	background: #715578;
+	background: ##F6A0FF;
 	margin: 0px;
 	float: left;
 	width: 100%;
@@ -46,7 +46,7 @@ body {
 	text-align: center;
 }
 a:link {
-     color: #715578;
+     color: #000000;
 }
 a:visited {
      color: #000;
