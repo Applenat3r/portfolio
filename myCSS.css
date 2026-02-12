@@ -5,7 +5,7 @@ body {
 	font: 100%/1.4 Times New Roman;
 }
 .homePage {
-	background: #8F0555;
+	background: ##F6A0FF;
 }
 .container {
 	width: 960px;
@@ -31,7 +31,7 @@ body {
 	text-align: center;
 }
 .content {
-	background: ##FEA290;
+	background: #FEA290;
 	margin: 0px;
 	float: left;
 	width: 100%;
